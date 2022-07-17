@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uniqucoder
+- 👋 Hi, I’m Chaitanya Tupsamudre
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Problem Solving and Projects
