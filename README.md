@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chaitanya Tupsamudre
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently Mastering DSA & Web development
 - 💞️ I’m looking to collaborate on Problem Solving and Projects
 - 📫 How to reach me @email chaitanyatupsamudre@gmail.com
 
